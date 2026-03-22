@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 .idea/
 *.zip
+
+# MNIST datasets
+chap5_CNN/mnist/
+chap5_CNN/MNIST_data/
