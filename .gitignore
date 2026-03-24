@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 .idea/
 *.zip
+__pycache__/
 
 # MNIST datasets
 chap5_CNN/mnist/
